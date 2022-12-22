@@ -1,9 +1,4 @@
-## Whiteboarding
-
-![](whiteboard1.jpg)
-
 ## Task
-
 **0. Pascal's Triangle**
 
 File: [0-rain.py](0-rain.py/) - [0-main.py](0-main.py/)
